@@ -1,0 +1,6 @@
+{
+    "baseUrl":"https://0.0.0.0:19006/",
+    "instagramAuthUrl":"https://www.instagram.com/oauth/authorize?client_id=354608522873177&redirect_uri=https://0.0.0.0:19006/&scope=user_profile,user_media&response_type=code",
+    "instaClientId":"354608522873177",
+    "instClientSecret":"c95150f62206017e2c4b6126de2a0c5e"
+}
